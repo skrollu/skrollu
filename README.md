@@ -7,4 +7,4 @@ In my "CSS" project, you can find lots of mini-projects where I try new things w
 My portfolio is currently work in progress. It's the occasion for me to learn about Webpack, Babel, Swup.js, Barba.js and more about GSAP...
 
 - 📫 You can contact me on: matiber76@gmail.com
-- See what I can do on: instant-nat.fr
+- See what I can do on: [instant-nat.fr](instant-nat)
